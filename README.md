@@ -1,6 +1,6 @@
 # Finetuning LLMs for Human Behavior Prediction in Social Science Experiments
 
-<img src="assets/teaser.png" width="30%">
+<img src="assets/teaser.png">
 
 <a href="https://github.com/your-username/your-repo">
     <img src="https://img.shields.io/badge/📝-Paper-0392cf">
