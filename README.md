@@ -45,6 +45,8 @@ Usage is detailed in the Hugging Face repository.
 - Fine-tune of Qwen2.5-14B with SFT: https://huggingface.co/socratesft/socrates-qwen2.5-14b-sft
 - Fine-tune of Qwen2.5-14B with DPO: https://huggingface.co/socratesft/socrates-qwen2.5-14b-dpo
 
+Attached to each model, there is also a sample script for how to use the model.
+
 
 ## Fine-tuning Code
 
